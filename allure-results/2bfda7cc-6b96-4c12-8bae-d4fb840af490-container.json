@@ -1,0 +1,1 @@
+{"uuid":"2bfda7cc-6b96-4c12-8bae-d4fb840af490","name":"TestScenarios.TestcasePathikLogin","children":["86158067-b4fe-44e3-91b9-68847d7c3de9"],"befores":[{"name":"beforetest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1754543723640,"stop":1754543738517}],"afters":[],"start":1754543723550,"stop":1754543764291}
